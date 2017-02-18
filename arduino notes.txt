@@ -1,0 +1,11 @@
+                                                   Arduino Uno 
+
+-)Arduino has A-D converter therefore it can take analog signals as input and the converter present in the microcontroller converts it into 
+  digital output but it ddoesn't have a digitall converter so no digital input is ssupported.
+-)ATMEGA16u2 is a microcontroller for usb interface [controls the usb connection]
+-)ATMEGA328  is the mmicrocontroller for users to program.
+-)ICSP-In-Circuit System Programming -used for programming the bootloader of ATMEGA16u2 and ATMEGA328[bootloader is firmware to program the flash or EPROM]
+ bootloader cann't program itself.
+
+
+
